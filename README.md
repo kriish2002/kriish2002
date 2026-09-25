@@ -137,6 +137,25 @@ Python • Automation • Job Search • Matching
 
 ---
 
+## 🎓 Certifications & Learning
+
+My certifications cover **cloud, data, Python, machine learning, and analytics**, supporting a broader foundation for cloud and DevOps engineering.
+
+| Certificate | What it demonstrates |
+|---|---|
+| ☁️ **AWS Certificate** | Demonstrates foundational exposure to AWS cloud concepts and services. <br/>Builds understanding of cloud infrastructure and AWS-based environments. |
+| 📊 **Big Data – Coursera** | Covers core concepts around big-data technologies and data processing. <br/>Builds awareness of how large-scale data is handled and analyzed. |
+| 💻 **IBM Certificate** | Demonstrates completion of an IBM technology-focused learning program. <br/>Adds structured learning experience to the technical skill set. |
+| 🐍 **Python – Kaggle** | Demonstrates practical Python learning through Kaggle's hands-on environment. <br/>Strengthens scripting and programming fundamentals useful for automation. |
+| 🤖 **Machine Learning Certificate** | Covers fundamental machine-learning concepts and workflows. <br/>Provides exposure to data-driven models and practical ML foundations. |
+| 📈 **Data Analytics Pro+ Internship** | Demonstrates learning and practical exposure to data analytics concepts. <br/>Builds experience with analytical thinking, data handling, and interpretation. |
+| 📜 **Professional Certificate – Krishan Kumar Rawat** | Represents an additional professional learning credential in the certificate portfolio. <br/>Adds evidence of continuous technical development and learning. |
+| 📜 **Professional Certificate – Krishan Kumar Rawat** | Represents another completed credential maintained in the certificate repository. <br/>Supports the overall record of continuous learning and skill development. |
+
+👉 **[View all certificates →](https://github.com/kriish2002/Certificates)**
+
+---
+
 <div align="center">
 
 ### 🚀 Consistency • Learning • Building
