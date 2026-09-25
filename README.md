@@ -102,6 +102,16 @@
 
 ---
 
+## 🎯 Contribution Goals
+
+<div align="center">
+
+<img src="./assets/contribution-goals.svg" alt="Contribution goals: 450+ target contributions, 20 day target current streak, 32 day target longest streak" />
+
+</div>
+
+---
+
 ## 🎯 Current Training Arc
 
 <div align="center">
