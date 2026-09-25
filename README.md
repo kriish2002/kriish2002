@@ -126,27 +126,31 @@
 
 <div align="center">
 
+### 💻 Code & Professional Network
+
 <a href="https://github.com/kriish2002">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-@kriish2002-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/krishan-k-rawat/">
+<img src="https://img.shields.io/badge/LinkedIn-Krishna%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Behind%20the%20Scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+### ✨ Socials
+
+<a href="https://www.instagram.com/privilege.x3/">
+<img src="https://img.shields.io/badge/Instagram-@privilege.x3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/kriish2002">
-<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://www.snapchat.com/@ofdev7?share_id=w5ZuQnVs2Pg&locale=en-IN">
+<img src="https://img.shields.io/badge/Snapchat-@ofdev7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" />
 </a>
 
 <br/><br/>
 
-### 💬 Open to DevOps • Cloud • SRE opportunities
+<sub>☁️ Azure • 🔄 DevOps • ☸️ Kubernetes • 🏗️ Terraform</sub>
 
 </div>
 
