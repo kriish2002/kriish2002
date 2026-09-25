@@ -66,8 +66,6 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kriish2002&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF" />
-
 </div>
 
 ---
