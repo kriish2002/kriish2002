@@ -84,6 +84,30 @@
 
 ---
 
+## 🏆 GitHub Achievements | 実績
+
+<div align="center">
+
+<a href="https://github.com/kriish2002?achievement=pull-shark&tab=achievements">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" alt="Pull Shark achievement" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kriish2002?achievement=yolo&tab=achievements">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="110" alt="YOLO achievement" />
+</a>
+
+<br/>
+
+**🦈 Pull Shark**　　**🚀 YOLO**
+
+<br/><br/>
+
+<sub>More GitHub achievements are earned automatically when you complete their qualifying activities.</sub>
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
