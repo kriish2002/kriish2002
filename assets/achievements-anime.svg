@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0D1117"/><stop offset=".5" stop-color="#1A1230"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#8A2BE2"/><stop offset="1" stop-color="#00D9FF"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="900" height="300" rx="22" fill="url(#bg)"/>
+<circle cx="120" cy="115" r="90" fill="#8A2BE2" opacity=".14" filter="url(#blur)"/>
+<circle cx="780" cy="115" r="90" fill="#00D9FF" opacity=".12" filter="url(#blur)"/>
+
+<!-- original anime-inspired character silhouettes -->
+<g opacity=".42" fill="#A98BFF">
+  <circle cx="115" cy="110" r="31"/>
+  <path d="M78 108 Q85 55 115 68 Q145 55 154 108 L140 94 Q115 78 91 94Z" fill="#6D4AFF"/>
+  <path d="M72 220 Q75 155 115 151 Q155 155 160 220Z"/>
+  <path d="M83 155 L65 196 L82 201 L101 169Z"/>
+  <path d="M147 155 L165 196 L148 201 L129 169Z"/>
+  <circle cx="104" cy="112" r="4" fill="#0D1117"/>
+  <circle cx="126" cy="112" r="4" fill="#0D1117"/>
+</g>
+
+<g opacity=".36" fill="#56E5FF">
+  <circle cx="785" cy="110" r="31"/>
+  <path d="M748 106 Q755 50 785 67 Q815 50 824 106 L809 91 Q785 78 762 92Z" fill="#00AFC9"/>
+  <path d="M742 220 Q745 155 785 151 Q825 155 828 220Z"/>
+  <path d="M753 156 L735 197 L752 202 L771 170Z"/>
+  <path d="M817 156 L835 197 L818 202 L799 170Z"/>
+  <circle cx="774" cy="112" r="4" fill="#0D1117"/>
+  <circle cx="796" cy="112" r="4" fill="#0D1117"/>
+</g>
+
+<rect x="245" y="55" width="410" height="190" rx="22" fill="#0D1117" fill-opacity=".92" stroke="url(#glow)" stroke-width="2"/>
+<text x="450" y="91" text-anchor="middle" fill="#00D9FF" font-family="Arial,sans-serif" font-size="22" font-weight="700">🏆 GITHUB ACHIEVEMENTS</text>
+
+<rect x="285" y="112" width="145" height="82" rx="15" fill="#171327" stroke="#8A2BE2"/>
+<rect x="470" y="112" width="145" height="82" rx="15" fill="#171327" stroke="#00D9FF"/>
+
+<image href="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" x="297" y="123" width="55" height="55"/>
+<image href="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" x="482" y="123" width="55" height="55"/>
+
+<text x="366" y="148" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="13" font-weight="700">Pull Shark</text>
+<text x="551" y="148" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="13" font-weight="700">YOLO</text>
+<text x="366" y="169" fill="#8A2BE2" font-family="Arial,sans-serif" font-size="11">🦈 Achievement</text>
+<text x="551" y="169" fill="#00D9FF" font-family="Arial,sans-serif" font-size="11">🚀 Achievement</text>
+
+<text x="450" y="225" text-anchor="middle" fill="#9CA3AF" font-family="Arial,sans-serif" font-size="11">Keep building • Keep shipping • Unlock more</text>
+</svg>
