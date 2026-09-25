@@ -110,17 +110,41 @@
 
 </div>
 
+---
+
+## 🌐 Connect With Me | つながろう
+
+<div align="center">
+
+<a href="https://github.com/kriish2002">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-Behind%20the%20Scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/kriish2002">
+<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💬 Open to DevOps • Cloud • SRE opportunities
+
+</div>
+
 <br/>
 
 <div align="center">
 
 > 🌸 **Small commits. Big deployments. Never stop learning.** 🌸
-
-### 🤝 Connect With Me
-
-<a href="https://github.com/kriish2002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
