@@ -43,18 +43,75 @@
 
 ---
 
+# 🚀 Featured Projects
+
 <div align="center">
 
-| 🌀 Mission | ⚡ Power |
-|---|---|
-| ☁️ **[Azure DevSecOps CI/CD → AKS](https://github.com/kriish2002/azure-devsecops-cicd-aks)** | Azure • CI/CD • Kubernetes • DevSecOps |
-| 🏗️ **[Enterprise Terraform Pipeline](https://github.com/kriish2002/enterprise-terraform-pipeline)** | Terraform • IaC • Automation |
-| ☸️ **[K8s Infrastructure](https://github.com/kriish2002/K8s-infra)** | Kubernetes • Infrastructure |
-| 🔧 **[Infrastructure using Terraform](https://github.com/kriish2002/Infrastructure_using_Terraform)** | Azure • Terraform |
-| 🤖 **[AI Job Agent](https://github.com/kriish2002/AI-Job-Agent)** | Python • Automation • Job Matching |
-| 📚 **[DevOps Interview Guide](https://github.com/kriish2002/DevOps-Interview-Guide)** | DevOps • Cloud • Learning |
+### ☁️ Azure DevSecOps CI/CD → AKS
+**End-to-end cloud delivery pipeline**
+
+Azure • Terraform • Azure DevOps • Docker • Kubernetes • DevSecOps
+
+[**View Repository →**](https://github.com/kriish2002/azure-devsecops-cicd-aks)
+
+---
+
+### 🏗️ Enterprise Terraform Pipeline
+**Infrastructure as Code with automated CI/CD**
+
+Terraform • Azure • IaC • Automation • Pipelines
+
+[**View Repository →**](https://github.com/kriish2002/enterprise-terraform-pipeline)
+
+---
+
+### ☸️ Kubernetes Infrastructure
+**Kubernetes infrastructure and deployment practice**
+
+Kubernetes • Containers • Infrastructure • YAML
+
+[**View Repository →**](https://github.com/kriish2002/K8s-infra)
+
+---
+
+### 🔄 AKS DevOps Project
+**Cloud-native application deployment workflow**
+
+Azure • AKS • Docker • CI/CD • DevOps
+
+[**View Repository →**](https://github.com/kriish2002/aks-devops-project)
+
+---
+
+### 🏗️ Terraform Azure Infrastructure
+**Reusable Azure infrastructure using Terraform**
+
+Azure • Terraform • Networking • Virtual Machines • IaC
+
+[**View Repository →**](https://github.com/kriish2002/Infrastructure_using_Terraform)
+
+---
+
+### 🤖 AI Job Agent
+**Automation-focused job discovery and matching system**
+
+Python • Automation • Job Search • Matching
+
+[**View Repository →**](https://github.com/kriish2002/AI-Job-Agent)
 
 </div>
+
+---
+
+## 🧪 DevOps Labs & Learning
+
+| Repository | Focus |
+|---|---|
+| 🔄 **[GitHub Actions Lab](https://github.com/kriish2002/GitHub_Actions_Lab)** | GitHub Actions • CI/CD |
+| ☸️ **[Kubernetes Configure](https://github.com/kriish2002/kubernetes_configure)** | Kubernetes • Configuration |
+| 🔧 **[Terraform Azure Pipeline](https://github.com/kriish2002/terraform-azure-classic-pipeline)** | Terraform • Azure DevOps |
+| 🐳 **[GitHub Actions Flask](https://github.com/kriish2002/github-actions-flask)** | Docker • GitHub Actions |
+| 📚 **[DevOps Interview Guide](https://github.com/kriish2002/DevOps-Interview-Guide)** | DevOps • Cloud • Interview Prep |
 
 ---
 
@@ -63,8 +120,6 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=kriish2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" />
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriish2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/><br/>
 
 </div>
 
@@ -95,10 +150,6 @@
 **☁️ Cloud Infrastructure**　•　**🔄 CI/CD Automation**　•　**☸️ Kubernetes**　•　**🏗️ Infrastructure as Code**
 
 </div>
-
----
-
-## 🎯 Contribution Goals
 
 ---
 
