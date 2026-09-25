@@ -156,6 +156,36 @@ My certifications cover **cloud, data, Python, machine learning, and analytics**
 
 ---
 
+## 💼 What I Bring
+
+<div align="center">
+
+| 🎯 Area | 🛠️ Hands-on Focus |
+|---|---|
+| ☁️ **Cloud** | Azure • AWS • Networking • VMs • AKS • Landing Zones |
+| 🏗️ **IaC** | Terraform • Modules • Remote State • Infrastructure Automation |
+| 🔄 **CI/CD** | Azure DevOps • GitHub Actions • Jenkins • YAML Pipelines |
+| ☸️ **Containers** | Docker • Kubernetes • AKS • Deployments • Services |
+| 🛡️ **DevSecOps** | Trivy • tfsec • TFLint • SonarQube • TruffleHog |
+| 📊 **Observability** | Prometheus • Grafana • ELK • Logs • Alerts |
+| 🐧 **Systems** | Linux • Bash • Python • PowerShell • Troubleshooting |
+
+</div>
+
+### 🔁 Production Workflow
+
+<div align="center">
+
+**👨‍💻 Code** → **🔀 Git** → **🔄 CI/CD** → **🛡️ Security Scan** → **🏗️ Terraform** → **🐳 Docker** → **☸️ AKS** → **📊 Monitor**
+
+<br/>
+
+> **Infrastructure → Automation → Security → Deployment → Observability**
+
+</div>
+
+---
+
 <div align="center">
 
 ### ⚙️ DevOps Journey • 2+ Years in Cloud & DevOps
