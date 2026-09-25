@@ -4,7 +4,7 @@
 
 <img src="./assets/profile-header.svg" alt="Krishna Rawat - DevOps and Cloud Engineer" width="100%" />
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000091bc81fa98d2b7a8dd6e22f5&ts=497308&p=fs&cid=1&sig=15e4818db2edb455562cb01d31b183cffa4e5415d1c06ca72f38b09176295fa7&v=0" alt="Krishna Rawat manga profile artwork" width="100%" />
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000fdbc81f8a01a3d91aa802f5d" alt="Manga artwork" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Welcome+to+my+DevOps+dojo!;%E2%98%81%EF%B8%8F+Azure+%7C+%F0%9F%8F%97%EF%B8%8F+Terraform+%7C+%E2%98%B8%EF%B8%8F+Kubernetes;%F0%9F%94%A5+Automate+%7C+Deploy+%7C+Monitor+%7C+Repeat;%F0%9F%9A%80+Building+cloud+infrastructure+like+a+shonen+hero" alt="Typing SVG" />
 
