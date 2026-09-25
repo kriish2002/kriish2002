@@ -14,14 +14,13 @@
 > **「コードを書く。自動化する。そして、壊れたら直す。」**  
 > *Write code. Automate everything. Fix it when it breaks.* ⚡
 
-- 👋 Hey, I'm **Krishna Rawat**
-- ☁️ DevOps & Cloud Engineer focused on **Microsoft Azure**
-- 🏗️ Building cloud infrastructure with **Terraform / IaC**
-- 🔄 Automating **CI/CD pipelines** with Azure DevOps & GitHub Actions
-- ☸️ Working with **Kubernetes / AKS & Docker**
-- 🐧 Linux administration, troubleshooting & scripting
-- 🛡️ Exploring **DevSecOps, monitoring and cloud security**
-- 🎯 My current mission: **turn manual infrastructure into automated infrastructure**
+- 👋 I'm **Krishna Rawat**, a **DevOps & Cloud Engineer** focused on Azure and infrastructure automation.
+- ☁️ **2+ years** working across cloud infrastructure, CI/CD, IaC and production support workflows.
+- 🏗️ Building reusable **Azure Landing Zones & Terraform infrastructure**.
+- 🔄 Designing **CI/CD pipelines** with Azure DevOps, GitHub Actions and Jenkins.
+- ☸️ Working with **Docker, Kubernetes & AKS** for cloud-native deployments.
+- 🛡️ Applying **DevSecOps, security scanning, monitoring and observability** practices.
+- 🎯 **Open to DevOps / Cloud / SRE opportunities** where I can build, automate and improve reliable infrastructure.
 
 ---
 
@@ -231,6 +230,18 @@ Using metrics, dashboards, and centralized logs to improve visibility, troublesh
 </div>
 ---
 
+## 📌 Recruiter Snapshot
+
+<div align="center">
+
+**DevOps & Cloud Engineer** • **Azure** • **Terraform** • **Azure DevOps** • **Kubernetes/AKS** • **CI/CD** • **DevSecOps** • **Linux**
+
+**2+ Years Experience** • **Infrastructure Automation** • **Cloud Operations** • **Production Troubleshooting**
+
+</div>
+
+---
+
 ## 🎯 Current Training Arc
 
 <div align="center">
@@ -255,17 +266,11 @@ Using metrics, dashboards, and centralized logs to improve visibility, troublesh
 
 <br/><br/>
 
-### ✨ Socials
+### 📬 Connect for DevOps & Cloud
 
-<a href="https://www.instagram.com/privilege.x3/">
-<img src="https://img.shields.io/badge/Instagram-@privilege.x3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.snapchat.com/@ofdev7?share_id=w5ZuQnVs2Pg&locale=en-IN">
-<img src="https://img.shields.io/badge/Snapchat-@ofdev7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" />
-</a>
+**Azure • Terraform • CI/CD • Kubernetes • DevSecOps**
 
-<br/><br/>
+<br/>
 
 <sub>☁️ Azure • 🔄 DevOps • ☸️ Kubernetes • 🏗️ Terraform</sub>
 
@@ -275,7 +280,7 @@ Using metrics, dashboards, and centralized logs to improve visibility, troublesh
 
 <div align="center">
 
-> 🌸 **Small commits. Big deployments. Never stop learning.** 🌸
+> 🚀 **Build. Automate. Secure. Ship.** — one commit at a time.
 
 </div>
 
