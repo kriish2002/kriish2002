@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop offset="0%" stop-color="#0D1117"/><stop offset="50%" stop-color="#151027"/><stop offset="100%" stop-color="#0D1117"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0%" stop-color="#8A2BE2"/><stop offset="100%" stop-color="#00D9FF"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="896" height="246" rx="18" fill="url(#bg)" stroke="#25203A" stroke-width="2"/>
+<text x="450" y="42" text-anchor="middle" fill="#00D9FF" font-family="Arial,sans-serif" font-size="18" font-weight="700">CONTRIBUTION GOALS • 2026</text>
+<line x1="300" y1="68" x2="300" y2="215" stroke="#30303A"/>
+<line x1="600" y1="68" x2="600" y2="215" stroke="#30303A"/>
+<text x="150" y="120" text-anchor="middle" fill="#79A7FF" font-family="Arial,sans-serif" font-size="42" font-weight="700">450+</text>
+<text x="150" y="151" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="16">Target Contributions</text>
+<text x="150" y="181" text-anchor="middle" fill="#8A2BE2" font-family="Arial,sans-serif" font-size="14">Build • Learn • Ship</text>
+<circle cx="450" cy="130" r="48" fill="none" stroke="url(#accent)" stroke-width="8"/>
+<text x="450" y="140" text-anchor="middle" fill="#C58AFF" font-family="Arial,sans-serif" font-size="34" font-weight="700">20</text>
+<text x="450" y="181" text-anchor="middle" fill="#00D9FF" font-family="Arial,sans-serif" font-size="16">Target Current Streak</text>
+<text x="750" y="120" text-anchor="middle" fill="#79A7FF" font-family="Arial,sans-serif" font-size="42" font-weight="700">32</text>
+<text x="750" y="151" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="16">Target Longest Streak</text>
+<text x="750" y="181" text-anchor="middle" fill="#8A2BE2" font-family="Arial,sans-serif" font-size="14">Consistency • Growth</text>
+</svg>
