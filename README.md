@@ -84,11 +84,19 @@
 
 ---
 
-## 🌃 Contribution Energy
+## 📈 Contribution Activity
 
 <div align="center">
 
+### 🚀 Consistency • Learning • Building
+
+> **Every contribution represents another step toward better automation, cleaner infrastructure, and stronger cloud engineering skills.**
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriish2002&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+
+<br/>
+
+**☁️ Cloud Infrastructure**　•　**🔄 CI/CD Automation**　•　**☸️ Kubernetes**　•　**🏗️ Infrastructure as Code**
 
 </div>
 
