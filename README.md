@@ -1,10 +1,4 @@
-<!-- ===================== ANIME DEVOPS PROFILE ===================== -->
-
 <div align="center">
-
-<img src="./assets/profile-header.svg" alt="Krishna Rawat - DevOps and Cloud Engineer" width="100%" />
-
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000fdbc81f8a01a3d91aa802f5d" alt="Manga artwork" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Welcome+to+my+DevOps+dojo!;%E2%98%81%EF%B8%8F+Azure+%7C+%F0%9F%8F%97%EF%B8%8F+Terraform+%7C+%E2%98%B8%EF%B8%8F+Kubernetes;%F0%9F%94%A5+Automate+%7C+Deploy+%7C+Monitor+%7C+Repeat;%F0%9F%9A%80+Building+cloud+infrastructure+like+a+shonen+hero" alt="Typing SVG" />
 
@@ -16,10 +10,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="./assets/about-anime.svg" alt="About Me anime banner" width="100%" />
-</div>
 
 > **「コードを書く。自動化する。そして、壊れたら直す。」**  
 > *Write code. Automate everything. Fix it when it breaks.* ⚡
@@ -34,10 +24,6 @@
 - 🎯 My current mission: **turn manual infrastructure into automated infrastructure**
 
 ---
-
-<div align="center">
-<img src="./assets/arsenal-anime.svg" alt="My DevOps Arsenal anime banner" width="100%" />
-</div>
 
 <div align="center">
 
@@ -58,10 +44,6 @@
 ---
 
 <div align="center">
-<img src="./assets/missions-anime.svg" alt="Featured Missions anime banner" width="100%" />
-</div>
-
-<div align="center">
 
 | 🌀 Mission | ⚡ Power |
 |---|---|
@@ -75,10 +57,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="./assets/stats-anime.svg" alt="GitHub Power Level anime banner" width="100%" />
-</div>
 
 <div align="center">
 
@@ -98,8 +76,6 @@
 
 <div align="center">
 
-<img src="./assets/achievements-anime.svg" alt="Anime-inspired GitHub achievements showcase" width="100%" />
-
 <br/>
 
 <sub>🦈 Pull Shark • 🚀 YOLO • More achievements can be unlocked through qualifying GitHub activity.</sub>
@@ -107,10 +83,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="./assets/activity-anime.svg" alt="Contribution Activity anime banner" width="100%" />
-</div>
 
 <div align="center">
 
@@ -130,10 +102,6 @@
 
 ## 🎯 Contribution Goals
 
-<div align="center">
-<img src="./assets/contribution-goals.svg" alt="Contribution goals: 450+ target contributions, 20 day target current streak, 32 day target longest streak" width="100%" />
-</div>
-
 ---
 
 ## 🎯 Current Training Arc
@@ -145,10 +113,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="./assets/connect-anime.svg" alt="Connect With Me anime banner" width="100%" />
-</div>
 
 <div align="center">
 
@@ -187,7 +151,5 @@
 > 🌸 **Small commits. Big deployments. Never stop learning.** 🌸
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:8A2BE2,65:4B1D6B,100:12002F&height=130&section=footer&animation=twinkling" />
 
 <!-- ⭐ If you like my work, feel free to explore my repositories! -->
