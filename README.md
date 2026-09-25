@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,35:4B1D6B,65:8A2BE2,100:00D9FF&height=210&section=header&text=KRISHNA%20RAWAT&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%E2%80%A2%20Azure%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform&descAlignY=60&descSize=18" />
+<img src="./assets/profile-header.svg" alt="Krishna Rawat - DevOps and Cloud Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Welcome+to+my+DevOps+dojo!;%E2%98%81%EF%B8%8F+Azure+%7C+%F0%9F%8F%97%EF%B8%8F+Terraform+%7C+%E2%98%B8%EF%B8%8F+Kubernetes;%F0%9F%94%A5+Automate+%7C+Deploy+%7C+Monitor+%7C+Repeat;%F0%9F%9A%80+Building+cloud+infrastructure+like+a+shonen+hero" alt="Typing SVG" />
 
@@ -15,7 +15,9 @@
 
 ---
 
-## 🌸 About Me | 自己紹介
+<div align="center">
+<img src="./assets/about-anime.svg" alt="About Me anime banner" width="100%" />
+</div>
 
 > **「コードを書く。自動化する。そして、壊れたら直す。」**  
 > *Write code. Automate everything. Fix it when it breaks.* ⚡
@@ -31,7 +33,9 @@
 
 ---
 
-## ⚔️ My DevOps Arsenal | 技術スタック
+<div align="center">
+<img src="./assets/arsenal-anime.svg" alt="My DevOps Arsenal anime banner" width="100%" />
+</div>
 
 <div align="center">
 
@@ -51,7 +55,9 @@
 
 ---
 
-## 🌌 Featured Missions | 主なプロジェクト
+<div align="center">
+<img src="./assets/missions-anime.svg" alt="Featured Missions anime banner" width="100%" />
+</div>
 
 <div align="center">
 
@@ -68,7 +74,9 @@
 
 ---
 
-## ⚡ GitHub Power Level
+<div align="center">
+<img src="./assets/stats-anime.svg" alt="GitHub Power Level anime banner" width="100%" />
+</div>
 
 <div align="center">
 
@@ -88,9 +96,7 @@
 
 <div align="center">
 
-<a href="https://github.com/kriish2002?achievement=pull-shark&tab=achievements">
-<img src="./assets/achievements-anime.svg" alt="Anime-inspired GitHub achievements showcase with Pull Shark and YOLO" width="900" />
-</a>
+<img src="./assets/achievements-anime.svg" alt="Anime-inspired GitHub achievements showcase" width="100%" />
 
 <br/>
 
@@ -100,7 +106,9 @@
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
+<img src="./assets/activity-anime.svg" alt="Contribution Activity anime banner" width="100%" />
+</div>
 
 <div align="center">
 
@@ -121,9 +129,7 @@
 ## 🎯 Contribution Goals
 
 <div align="center">
-
-<img src="./assets/contribution-goals.svg" alt="Contribution goals: 450+ target contributions, 20 day target current streak, 32 day target longest streak" />
-
+<img src="./assets/contribution-goals.svg" alt="Contribution goals: 450+ target contributions, 20 day target current streak, 32 day target longest streak" width="100%" />
 </div>
 
 ---
@@ -138,7 +144,9 @@
 
 ---
 
-## 🌐 Connect With Me | つながろう
+<div align="center">
+<img src="./assets/connect-anime.svg" alt="Connect With Me anime banner" width="100%" />
+</div>
 
 <div align="center">
 
