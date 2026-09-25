@@ -1,128 +1,121 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ===================== ANIME DEVOPS PROFILE ===================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm **Krishna Rawat**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,35:4B1D6B,65:8A2BE2,100:00D9FF&height=210&section=header&text=KRISHNA%20RAWAT&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%E2%80%A2%20Azure%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform&descAlignY=60&descSize=18" />
 
-### 🚀 DevOps & Cloud Engineer | ☁️ Azure | 🏗️ Terraform | ☸️ Kubernetes
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00A4EF&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%7C+Docker+%7C+Linux;Building+reliable+cloud+infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/kriish2002">
-    <img src="https://komarev.com/ghpvc/?username=kriish2002&style=for-the-badge&color=blue" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/kriish2002?tab=followers">
-    <img src="https://img.shields.io/github/followers/kriish2002?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- ☁️ DevOps & Cloud Engineer focused on **Microsoft Azure**
-- 🏗️ Hands-on with **Terraform & Infrastructure as Code**
-- 🔄 Building and automating **CI/CD pipelines**
-- ☸️ Working with **Kubernetes / AKS & Docker**
-- 🐧 Comfortable with **Linux administration and troubleshooting**
-- 🛡️ Exploring **DevSecOps, monitoring and cloud security**
-- 🚀 Interested in building scalable, automated and production-ready infrastructure
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform" />
-
-### 🔄 DevOps & CI/CD
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes" />
-
-### 🐧 Systems & Scripting
-<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell" />
-
-### 📊 Monitoring & Tools
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it covers |
-|---|---|
-| ☁️ **[Azure DevSecOps CI/CD → AKS](https://github.com/kriish2002/azure-devsecops-cicd-aks)** | Azure, CI/CD, Kubernetes & DevSecOps |
-| 🏗️ **[Enterprise Terraform Pipeline](https://github.com/kriish2002/enterprise-terraform-pipeline)** | Terraform Infrastructure + automated pipeline |
-| ☸️ **[K8s Infrastructure](https://github.com/kriish2002/K8s-infra)** | Kubernetes infrastructure & configuration |
-| 🔧 **[Infrastructure using Terraform](https://github.com/kriish2002/Infrastructure_using_Terraform)** | Azure infrastructure automation with Terraform |
-| 🤖 **[AI Job Agent](https://github.com/kriish2002/AI-Job-Agent)** | Python-based job search & matching automation |
-| 📚 **[DevOps Interview Guide](https://github.com/kriish2002/DevOps-Interview-Guide)** | DevOps, Cloud & interview preparation |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kriish2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriish2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Welcome+to+my+DevOps+dojo!;%E2%98%81%EF%B8%8F+Azure+%7C+%F0%9F%8F%97%EF%B8%8F+Terraform+%7C+%E2%98%B8%EF%B8%8F+Kubernetes;%F0%9F%94%A5+Automate+%7C+Deploy+%7C+Monitor+%7C+Repeat;%F0%9F%9A%80+Building+cloud+infrastructure+like+a+shonen+hero" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=kriish2002&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=kriish2002&style=for-the-badge&color=8A2BE2" />
+<img src="https://img.shields.io/github/followers/kriish2002?style=for-the-badge&logo=github&label=Followers&color=00D9FF" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🌸 About Me | 自己紹介
+
+> **「コードを書く。自動化する。そして、壊れたら直す。」**  
+> *Write code. Automate everything. Fix it when it breaks.* ⚡
+
+- 👋 Hey, I'm **Krishna Rawat**
+- ☁️ DevOps & Cloud Engineer focused on **Microsoft Azure**
+- 🏗️ Building cloud infrastructure with **Terraform / IaC**
+- 🔄 Automating **CI/CD pipelines** with Azure DevOps & GitHub Actions
+- ☸️ Working with **Kubernetes / AKS & Docker**
+- 🐧 Linux administration, troubleshooting & scripting
+- 🛡️ Exploring **DevSecOps, monitoring and cloud security**
+- 🎯 My current mission: **turn manual infrastructure into automated infrastructure**
+
+---
+
+## ⚔️ My DevOps Arsenal | 技術スタック
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriish2002&theme=tokyo-night&hide_border=true" />
+### ☁️ Cloud & IaC
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform&theme=dark" />
+
+### 🔥 CI/CD & Containers
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes&theme=dark" />
+
+### 🐧 Linux & Scripting
+<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell&theme=dark" />
+
+### 📊 Monitoring & Git
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌌 Featured Missions | 主なプロジェクト
 
 <div align="center">
 
-☁️ **Azure Cloud** &nbsp; • &nbsp;
-🏗️ **Terraform IaC** &nbsp; • &nbsp;
-☸️ **AKS / Kubernetes** &nbsp; • &nbsp;
-🔄 **CI/CD Automation** &nbsp; • &nbsp;
-🛡️ **DevSecOps**
+| 🌀 Mission | ⚡ Power |
+|---|---|
+| ☁️ **[Azure DevSecOps CI/CD → AKS](https://github.com/kriish2002/azure-devsecops-cicd-aks)** | Azure • CI/CD • Kubernetes • DevSecOps |
+| 🏗️ **[Enterprise Terraform Pipeline](https://github.com/kriish2002/enterprise-terraform-pipeline)** | Terraform • IaC • Automation |
+| ☸️ **[K8s Infrastructure](https://github.com/kriish2002/K8s-infra)** | Kubernetes • Infrastructure |
+| 🔧 **[Infrastructure using Terraform](https://github.com/kriish2002/Infrastructure_using_Terraform)** | Azure • Terraform |
+| 🤖 **[AI Job Agent](https://github.com/kriish2002/AI-Job-Agent)** | Python • Automation • Job Matching |
+| 📚 **[DevOps Interview Guide](https://github.com/kriish2002/DevOps-Interview-Guide)** | DevOps • Cloud • Learning |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## ⚡ GitHub Power Level
 
 <div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=kriish2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriish2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=kriish2002&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+## 🌃 Contribution Energy
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriish2002&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Training Arc
+
+<div align="center">
+
+**☁️ Azure**　→　**🏗️ Terraform**　→　**☸️ AKS**　→　**🔄 CI/CD**　→　**🛡️ DevSecOps**　→　**🚀 Production**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> 🌸 **Small commits. Big deployments. Never stop learning.** 🌸
+
+### 🤝 Connect With Me
 
 <a href="https://github.com/kriish2002">
-  <img src="https://img.shields.io/badge/GitHub-kriish2002-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:8A2BE2,65:4B1D6B,100:12002F&height=130&section=footer&animation=twinkling" />
 
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:512BD4,100:00C7B7&height=100&section=footer" />
-
-</div>
+<!-- ⭐ If you like my work, feel free to explore my repositories! -->
