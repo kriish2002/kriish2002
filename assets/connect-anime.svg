@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#090B12"/><stop offset=".5" stop-color="#17112B"/><stop offset="1" stop-color="#090B12"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#00D9FF"/></linearGradient></defs>
+<rect width="1000" height="180" rx="20" fill="url(#bg)" stroke="#28233B" stroke-width="2"/>
+<circle cx="95" cy="88" r="65" fill="#00D9FF" opacity=".10"/><circle cx="905" cy="88" r="65" fill="#00D9FF" opacity=".08"/>
+<!-- original anime-inspired character left -->
+<g opacity=".72" fill="#00D9FF"><circle cx="105" cy="65" r="22"/><path d="M78 62Q82 23 105 38Q128 23 134 62L123 53Q105 43 89 54Z" fill="#6B45FF"/><path d="M70 145Q73 96 105 94Q137 96 140 145Z"/><path d="M82 100L65 132L78 137L94 111Z"/><path d="M128 100L145 132L132 137L116 111Z"/></g>
+<!-- original anime-inspired character right -->
+<g opacity=".60" fill="#00D9FF"><circle cx="895" cy="65" r="22"/><path d="M868 62Q872 23 895 38Q918 23 924 62L913 53Q895 43 879 54Z" fill="#008FB0"/><path d="M860 145Q863 96 895 94Q927 96 930 145Z"/><path d="M872 100L855 132L868 137L884 111Z"/><path d="M918 100L935 132L922 137L906 111Z"/></g>
+<rect x="205" y="30" width="590" height="120" rx="18" fill="#0D1117" fill-opacity=".90" stroke="url(#a)" stroke-width="2"/>
+<text x="500" y="82" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="30" font-weight="700">CONNECT WITH ME</text>
+<text x="500" y="112" text-anchor="middle" fill="#9CA3AF" font-family="Arial,sans-serif" font-size="13">GitHub • LinkedIn • Instagram • Snapchat</text>
+</svg>
