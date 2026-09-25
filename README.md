@@ -89,20 +89,12 @@
 <div align="center">
 
 <a href="https://github.com/kriish2002?achievement=pull-shark&tab=achievements">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" alt="Pull Shark achievement" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kriish2002?achievement=yolo&tab=achievements">
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="110" alt="YOLO achievement" />
+<img src="./assets/achievements-anime.svg" alt="Anime-inspired GitHub achievements showcase with Pull Shark and YOLO" width="900" />
 </a>
 
 <br/>
 
-**🦈 Pull Shark**　　**🚀 YOLO**
-
-<br/><br/>
-
-<sub>More GitHub achievements are earned automatically when you complete their qualifying activities.</sub>
+<sub>🦈 Pull Shark • 🚀 YOLO • More achievements can be unlocked through qualifying GitHub activity.</sub>
 
 </div>
 
