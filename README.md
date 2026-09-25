@@ -158,18 +158,47 @@ My certifications cover **cloud, data, Python, machine learning, and analytics**
 
 <div align="center">
 
-### 🚀 Consistency • Learning • Building
+### ⚙️ DevOps Journey • 2+ Years in Cloud & DevOps
 
-> **Every contribution represents another step toward better automation, cleaner infrastructure, and stronger cloud engineering skills.**
+> **For the last 2+ years, I've been working in the DevOps & Cloud domain — building infrastructure, automating deployments, troubleshooting environments, and continuously improving delivery workflows.** 🚀
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriish2002&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+### ☁️ Azure & Cloud Infrastructure
+**Azure • Networking • VMs • AKS • Landing Zones**
+
+Building scalable and reusable cloud infrastructure with a focus on Azure networking, compute, Kubernetes, and secure architecture.
+
+### 🏗️ Infrastructure as Code
+**Terraform • Modules • Remote State • IaC**
+
+Turning manual infrastructure into repeatable, version-controlled deployments using Terraform and reusable modules.
+
+### 🔄 CI/CD & Automation
+**Azure DevOps • GitHub Actions • Jenkins • YAML**
+
+Automating builds, testing, infrastructure provisioning, and application deployments through reliable CI/CD pipelines.
+
+### ☸️ Containers & Kubernetes
+**Docker • Kubernetes • AKS • Deployments • Services**
+
+Containerizing applications and managing Kubernetes workloads, deployments, services, and day-to-day operations.
+
+### 🛡️ DevSecOps
+**Trivy • tfsec • TFLint • SonarQube • TruffleHog**
+
+Integrating security into the delivery lifecycle by scanning code, containers, infrastructure, and secrets before deployment.
+
+### 📊 Monitoring & Reliability
+**Prometheus • Grafana • ELK • Logs • Alerts**
+
+Using metrics, dashboards, and centralized logs to improve visibility, troubleshoot issues, and support reliable environments.
 
 <br/>
 
-**☁️ Cloud Infrastructure**　•　**🔄 CI/CD Automation**　•　**☸️ Kubernetes**　•　**🏗️ Infrastructure as Code**
+**☁️ Cloud** → **🏗️ IaC** → **🔄 CI/CD** → **☸️ Kubernetes** → **🛡️ DevSecOps** → **📊 Monitoring** → **🚀 Production**
+
+> **Build. Automate. Secure. Monitor. Improve. Repeat.** ⚡
 
 </div>
-
 ---
 
 ## 🎯 Current Training Arc
