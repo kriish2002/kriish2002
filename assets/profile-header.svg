@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#070914"/><stop offset=".5" stop-color="#24113F"/><stop offset="1" stop-color="#07131D"/></linearGradient><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8A2BE2"/><stop offset="1" stop-color="#00D9FF"/></linearGradient></defs>
+<rect width="1000" height="260" rx="26" fill="url(#b)"/>
+<circle cx="120" cy="115" r="90" fill="#8A2BE2" opacity=".10"/><circle cx="880" cy="115" r="90" fill="#00D9FF" opacity=".09"/>
+<g opacity=".62" fill="#A98BFF"><circle cx="120" cy="92" r="32"/><path d="M80 91Q88 36 120 56Q151 36 160 91L145 79Q120 65 96 80Z" fill="#6D45FF"/><path d="M70 220Q75 155 120 151Q165 155 170 220Z"/><path d="M87 158L64 201L80 208L103 171Z"/><path d="M153 158L176 201L160 208L137 171Z"/></g>
+<g opacity=".55" fill="#56E5FF"><circle cx="880" cy="92" r="32"/><path d="M840 91Q848 36 880 56Q911 36 920 91L905 79Q880 65 856 80Z" fill="#00AFC9"/><path d="M830 220Q835 155 880 151Q925 155 930 220Z"/><path d="M847 158L824 201L840 208L863 171Z"/><path d="M913 158L936 201L920 208L897 171Z"/></g>
+<text x="500" y="105" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="48" font-weight="800">KRISHNA RAWAT</text>
+<text x="500" y="143" text-anchor="middle" fill="#00D9FF" font-family="Arial,sans-serif" font-size="20" font-weight="700">DEVOPS &amp; CLOUD ENGINEER</text>
+<text x="500" y="175" text-anchor="middle" fill="#C9B8FF" font-family="Arial,sans-serif" font-size="14">AZURE • TERRAFORM • KUBERNETES • CI/CD</text>
+<rect x="335" y="198" width="330" height="3" rx="2" fill="url(#g)"/>
+</svg>
